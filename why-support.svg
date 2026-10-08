@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="cs">
+<path id="Icon" d="M40.8031 37.6V20.8C40.8031 11.5216 33.2815 4 24.0031 4C14.7247 4 7.20312 11.5216 7.20312 20.8V37.6H12.0031C13.3286 37.6 14.4031 36.5255 14.4031 35.2V30.4C14.4031 29.0745 13.3286 28 12.0031 28H7.20312M40.8031 37.6H36.0031C34.6776 37.6 33.6031 36.5255 33.6031 35.2V30.4C33.6031 29.0745 34.6776 28 36.0031 28H40.8031M40.8031 37.6C40.8031 44 33.0032 44 28.0032 44" stroke="#4F4F4F" stroke-width="2.99935" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="Icon_2">
+<path d="M40.8031 37.599V28.0001L36.0031 27.999C34.6776 27.999 33.6031 29.0735 33.6031 30.399V35.199C33.6031 36.5245 34.6776 37.599 36.0031 37.599H40.8031Z" stroke="#00E59A" stroke-width="2.99935" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.20312 27.999V37.599H12.0031C13.3286 37.599 14.4031 36.5245 14.4031 35.199V30.399C14.4031 29.0735 13.3286 27.999 12.0031 27.999H7.20312Z" stroke="#00E59A" stroke-width="2.99935" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

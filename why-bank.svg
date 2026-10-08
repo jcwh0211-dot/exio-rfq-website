@@ -1,0 +1,17 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bank">
+<rect width="48" height="48" fill="white"/>
+<rect width="48" height="48" fill="url(#paint0_linear_0_13)"/>
+<g id="Icon">
+<path d="M43.1972 36.8007H4.79723V43.2007H43.1972V36.8007Z" stroke="#4F4F4F" stroke-width="2.99935" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M4.79723 13.334V17.6007H43.1972V13.334L23.2082 4.80069L4.79723 13.334Z" stroke="#4F4F4F" stroke-width="2.99935" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path id="Icon_2" d="M7.99432 30.0013V24.664M18.661 30.0013V24.664M29.3276 30.0013V24.664M39.9943 30.0013V24.664" stroke="#00E59A" stroke-width="2.99935" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_13" x1="9.50047" y1="9.03807" x2="35.7743" y2="39.6909" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#D0EEFF"/>
+</linearGradient>
+</defs>
+</svg>
